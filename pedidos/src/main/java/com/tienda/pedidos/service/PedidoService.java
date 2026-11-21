@@ -1,4 +1,4 @@
-﻿package com.tienda.pedidos.service;
+package com.tienda.pedidos.service;
 
 import com.tienda.pedidos.dto.PedidoRequestDTO;
 import com.tienda.pedidos.dto.PedidoResponseDTO;

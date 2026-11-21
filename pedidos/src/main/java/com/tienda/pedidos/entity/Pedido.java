@@ -1,4 +1,4 @@
-﻿package com.tienda.pedidos.entity;
+package com.tienda.pedidos.entity;
 
 import jakarta.persistence.*;
 import java.time.LocalDateTime;

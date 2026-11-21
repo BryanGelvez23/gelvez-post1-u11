@@ -1,4 +1,4 @@
-﻿package com.tienda.pedidos.exception;
+package com.tienda.pedidos.exception;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.slf4j.Logger;

@@ -1,4 +1,4 @@
-﻿package com.tienda.pedidos.exception;
+package com.tienda.pedidos.exception;
 
 public class RecursoNoEncontradoException extends RuntimeException {
     public RecursoNoEncontradoException(String recurso, Long id) {

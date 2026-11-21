@@ -1,4 +1,4 @@
-﻿package com.tienda.pedidos.repository;
+package com.tienda.pedidos.repository;
 
 import com.tienda.pedidos.entity.Pedido;
 import org.springframework.data.jpa.repository.JpaRepository;

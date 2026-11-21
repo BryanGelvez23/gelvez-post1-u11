@@ -1,4 +1,4 @@
-﻿package com.tienda.pedidos.dto;
+package com.tienda.pedidos.dto;
 
 public class PedidoResponseDTO {
     private Long id;

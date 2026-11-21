@@ -1,4 +1,4 @@
-﻿<configuration>
+<configuration>
   <appender name="CONSOLA" class="ch.qos.logback.core.ConsoleAppender">
     <encoder>
       <pattern>%d{HH:mm:ss} %-5level %logger{30} - %msg%n</pattern>

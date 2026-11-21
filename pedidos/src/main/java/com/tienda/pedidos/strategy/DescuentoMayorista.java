@@ -1,4 +1,4 @@
-﻿package com.tienda.pedidos.strategy;
+package com.tienda.pedidos.strategy;
 
 import org.springframework.stereotype.Component;
 
